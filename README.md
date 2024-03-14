@@ -13,9 +13,4 @@ Dados de Países: Descubra dados detalhados sobre países, incluindo seus contin
 
 
 ## Como Usar a API 🤓
-A GeoWorld Mania API oferece endpoints intuitivos e bem documentados, facilitando a integração com o aplicativo móvel GeoWorld Mania. Basta fazer solicitações HTTP para acessar os dados necessários e proporcionar uma experiência educacional rica aos usuários do aplicativo.
-
-Contribua 🌟
-Você é bem-vindo para contribuir para o desenvolvimento contínuo da GeoWorld Mania API. Sinta-se à vontade para abrir problemas, enviar solicitações de pull ou fornecer feedback para ajudar a tornar nossa API ainda melhor!
-
-Junte-se a nós e vamos explorar o mundo juntos com o GeoWorld Mania!
+A GeoWorld Mania API foi projetada para ser usada exclusivamente pelo aplicativo móvel GeoWorld Mania e não está disponível para uso externo. Todos os endpoints da API são protegidos por autenticação de usuário e senha e são destinados apenas para consumo interno pelo aplicativo.
