@@ -1,6 +1,6 @@
 # Bem-vindo ao GeoWorld Mania API 🌍
 
-A GeoWorld Mania API foi cuidadosamente desenvolvida para alimentar o GeoWorld Mania, um aplicativo educacional de Geografia que torna a aprendizagem divertida e envolvente!
+A GeoWorld Mania API foi cuidadosamente desenvolvida para alimentar o GeoWorld Mania, um aplicativo educacional de Geografia que torna a aprendizagem divertida e envolvente! Criada por mim como parte de uma atividade da minha faculdade na FIAP.
 
 ## Sobre o GeoWorld Mania 📚
 O GeoWorld Mania é um aplicativo educacional de Geografia projetado para inspirar a curiosidade e o aprendizado sobre o mundo ao nosso redor. Com uma interface amigável e recursos cativantes, os usuários podem explorar continentes, países, capitais e bandeiras de uma maneira interativa e divertida.
