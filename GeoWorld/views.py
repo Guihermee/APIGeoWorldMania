@@ -18,8 +18,6 @@ class BandeiraViewSet(viewsets.ModelViewSet):
     """Exibindo todas as bandeiras"""
     queryset = Bandeira.objects.all()
     serializer_class = BandeiraSerializer
-    authentication_classes = [BasicAuthentication]
-    permission_classes = [IsAuthenticated]
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
     search_fields = ['nome']
     ordering_fields = ['nome']
@@ -40,8 +38,6 @@ class BandeiraViewSet(viewsets.ModelViewSet):
 class PaisViewSet(viewsets.ModelViewSet):
     """Exibindo todos os paises"""
     queryset = Pais.objects.all()
-    serializer_class = PaisSerializer
-    authentication_classes = [BasicAuthentication]
     permission_classes = [IsAuthenticated]
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
     search_fields = ['nome', 'capital', 'continente']
