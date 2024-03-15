@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'GeoWorld',
     'django_filters',
-    'django_extensions',
 ]
 
 MIDDLEWARE = [
